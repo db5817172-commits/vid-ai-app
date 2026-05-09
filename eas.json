@@ -8,8 +8,7 @@
       "distribution": "internal",
       "android": {
         "buildType": "apk",
-        "image": "ubuntu-22.04-jdk-11-ndk-r23c",
-        "gradleCommand": ":app:assembleRelease"
+        "image": "ubuntu-22.04-jdk-11-ndk-r23b"
       }
     }
   }
