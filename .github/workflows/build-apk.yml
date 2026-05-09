@@ -10,9 +10,6 @@ on:
 jobs:
   build-apk:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: VidAI3_fixed
     steps:
       - uses: actions/checkout@v4
 
